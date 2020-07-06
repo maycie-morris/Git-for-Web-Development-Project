@@ -180,4 +180,7 @@ Stretch Questions
         display inline-block by default is img.
 
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
-     
+        What is meant by the box model is that every element in HTML can be considered it's own
+        "box" and therefore in CSS you can break each of the elements up and design them accordingly
+        to each box or element by using padding, margins, borders, etc. Using these, we are able to
+        make each element respect the width that we assign each one.
